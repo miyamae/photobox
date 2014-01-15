@@ -1,0 +1,6 @@
+.DS_Store
+.ruby-version
+/.bundle
+/vendor/bundle
+*.sublime-project
+*.sublime-workspace
